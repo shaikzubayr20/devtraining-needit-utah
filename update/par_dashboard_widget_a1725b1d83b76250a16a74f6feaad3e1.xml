@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">f49f075983b76250a16a74f6feaad380</canvas>
+        <component display_value="Pie">96abe7e38d8790718022c5630a92176c</component>
+        <component_props>{"drilldownLabel":null,"selectedElements":[],"configVersion":"23.0.0-ci-SNAPSHOT","chartSize":null,"showDataLabels":false,"dataLabelsType":"both","maxLabelSize":null,"truncationType":"end","showRegister":true,"registerPosition":"bottom","registerOrientation":"horizontal","showRegisterOnSameLine":false,"showRegisterValue":false,"legendHorizontalAlignment":"center","legendMaxItemWidth":null,"legendExpandToFit":false,"showRegisterPercentage":false,"colorConfig":{"type":"default"},"newReporting":false,"enableAddZerosAtApi":true,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"NeedIt","sourceType":"table","tableOrViewName":"x_58872_needit_needit","filterQuery":"","reportSourceSysId":"7b02db1d83b76250a16a74f6feaad329","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzU4ODcyX25lZWRpdF9uZWVkaXQxNzU3MDEzNTY0MDA3","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":true,"contextMenuActions":[],"title":null,"headerTitle":"Needit Grouped by Request type","headingLevel":2,"description":null,"showBorder":true,"groupByConfig":null,"bareBorder":false,"formats":null,"dataCategory":null,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":false,"metrics":[{"dataSource":"dGFibGV4XzU4ODcyX25lZWRpdF9uZWVkaXQxNzU3MDEzNTY0MDA3","id":"ZEdGaWJHVjRYelU0T0RjeVgyNWxaV1JwZEY5dVpXVmthWFF4TnpVM01ERXpOVFkwTURBMzE3NTcwMTM1NjYzMDg=","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"dGFibGV4XzU4ODcyX25lZWRpdF9uZWVkaXQxNzU3MDEzNTY0MDA3","groupByField":"u_request_type","isRange":false,"isChoice":true,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"hideZeroValues":null,"disableRanges":false}],"filterPerMetric":[],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"forecastConfig":null,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"1kh7pcaw","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"backgroundRefreshInterval":null,"standardFormatData":null,"hideDevSettings":false,"configPropModifiers":{},"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"chartExtraConfig":null,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"startTime":null,"endTime":null,"useCurrentDateForEnd":false,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"isComponentInView":null,"pageId":null,"dateFormat":"default","showRefresh":true,"showFilterAsSeparateSeries":false,"id":"wrapTitle","value":false,"noDebounce":true,"propLabel":"Wrap title"}</component_props>
+        <h>30</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-04 19:17:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a1725b1d83b76250a16a74f6feaad3e1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_widget_a1725b1d83b76250a16a74f6feaad3e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-04 19:21:47</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
